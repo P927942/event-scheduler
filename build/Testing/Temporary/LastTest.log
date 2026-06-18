@@ -1,0 +1,19 @@
+Start testing: Jun 18 18:19 India Standard Time
+----------------------------------------------------------
+Unable to find executable: C:/Users/priya/OneDrive/Desktop/event-scheduler/build/Debug/run_tests.exe
+1/1 Testing: UnitTests
+1/1 Test: UnitTests
+Command: ""
+Directory: C:/Users/priya/OneDrive/Desktop/event-scheduler/build
+"UnitTests" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"UnitTests" end time: Jun 18 18:19 India Standard Time
+"UnitTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 18 18:19 India Standard Time

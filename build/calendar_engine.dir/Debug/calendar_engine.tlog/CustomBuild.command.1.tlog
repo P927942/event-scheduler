@@ -1,0 +1,10 @@
+^C:\USERS\PRIYA\ONEDRIVE\DESKTOP\EVENT-SCHEDULER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/priya/OneDrive/Desktop/event-scheduler -BC:/Users/priya/OneDrive/Desktop/event-scheduler/build --check-stamp-file C:/Users/priya/OneDrive/Desktop/event-scheduler/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

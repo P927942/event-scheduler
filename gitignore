@@ -1,0 +1,36 @@
+# Build output
+build/
+cmake-build-*/
+out/
+
+# Compiled binaries
+calendar_engine
+run_tests
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+install_manifest.txt
+
+# Third-party vendored headers (download via wget at build time)
+third_party/crow_all.h
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Compile commands (can be generated, not source)
+compile_commands.json

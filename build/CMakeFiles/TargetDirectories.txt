@@ -1,0 +1,6 @@
+C:/Users/priya/OneDrive/Desktop/event-scheduler/build/CMakeFiles/scheduler_core.dir
+C:/Users/priya/OneDrive/Desktop/event-scheduler/build/CMakeFiles/calendar_engine.dir
+C:/Users/priya/OneDrive/Desktop/event-scheduler/build/CMakeFiles/run_tests.dir
+C:/Users/priya/OneDrive/Desktop/event-scheduler/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/priya/OneDrive/Desktop/event-scheduler/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/priya/OneDrive/Desktop/event-scheduler/build/CMakeFiles/ZERO_CHECK.dir
